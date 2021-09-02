@@ -2,6 +2,7 @@ import React from 'react';
 
 import Section from 'elements/Section';
 import Fade from 'react-reveal/Fade';
+
 import Client01 from 'assets/images/clients-01.svg';
 import Client02 from 'assets/images/clients-02.svg';
 import Client03 from 'assets/images/clients-03.svg';
